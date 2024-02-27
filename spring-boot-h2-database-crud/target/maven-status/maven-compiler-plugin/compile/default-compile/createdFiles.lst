@@ -1,0 +1,4 @@
+com/nitesh/spring/crud/model/Tutorial.class
+com/nitesh/spring/crud/controller/TutorialController.class
+com/nitesh/spring/crud/repository/TutorialRepository.class
+com/nitesh/spring/crud/SpringBootJpaH2Application.class
